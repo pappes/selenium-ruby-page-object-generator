@@ -1,5 +1,5 @@
 /**
- * Created by Dave on 4/03/2017. (C) Ezidebit
+ * Created by Dave on 4/03/2017. (C)  all rights reserved
  */
 
 const BODYTAG                  = 'body';
@@ -24,10 +24,10 @@ elementCollection.appendChild(elementWithId);
 
 console.log(createPageObjectHeader('this_is_my_page_title'));
 //     //    class EBSLoginPage < Page
-console.log(createPageObjectFieldMethod('this_is_my_field_name'));
+console.log(createPageObjectEnterMethod('this_is_my_field_name'));
 //     //    self.user_name=user_name_value
 //     //    enter @@user_name,user_name_value
-console.log(createPageObjectButtonMethod('this_is_my_button_name'));
+console.log(createPageObjectClickMethod('this_is_my_button_name'));
 //     //    self.login_button
 //     //    click @@login_button
 console.log(createPageObjectFooter());
@@ -69,37 +69,9 @@ console.log(createPageObject(elementCollection, 'this_is_my_page_title'));
 //     //    end
 
 
-//
-//
-// function createPageObject(parentNode) {
-//
-//     // Get the list of user input fields from the current HTML page and build a Ruby page object file
-//
-//     var rubyPageObject ='';
-//     var inputFields = parentNode.getElementsByTagName('input');
-//     var i = 0;
-//
-//     rubyPageObject += createPageObjectHeader(parentNode.title);
-//     for (i = 0; i < inputFields.length; ++i) {
-//         rubyPageObject += createPageObjectAnnotation(inputFields[i]);
-//     }
-//     for (i = 0; i < inputFields.length; ++i) {
-//         rubyPageObject += createPageObjectMethod(inputFields[i]);
-//     }
-//     rubyPageObject += createPageObjectFooter();
-//     return rubyPageObject;
-//
-// }
-// function constructPageObject(webPage) {
-
-// uncomment the below 2 lines to execute the logic immediately for the current page as a bookmarklet
-//constructPageObject(document);
-//})();
-
-
 
 /*
- See below for a Ruby pageobject sample
+ See below for a Ruby pageobject sample supplied by Manood
 
  class EBSLoginPage < Page
 
@@ -121,7 +93,7 @@ console.log(createPageObject(elementCollection, 'this_is_my_page_title'));
 
  end
  */
-//
+// The below code is is samples from java of more complex interactions
 // /**
 //  * Set value to "Action" Drop Down List field.
 //  *
@@ -132,12 +104,6 @@ console.log(createPageObject(elementCollection, 'this_is_my_page_title'));
 //     return this;
 // }
 //
-// public dsfsd setComments9CheckboxField() {
-//     if (!comments9.isSelected()) {
-//         comments9.click();
-//     }
-//     return this;
-// }
 //
 // /**
 //  * Set default value to Radio Button Group In Action Radio Button field.
@@ -164,6 +130,12 @@ console.log(createPageObject(elementCollection, 'this_is_my_page_title'));
 //  */
 // public dsfsd unsetHtmlDropdownSelectFieldInActionDropDownListField(String htmlDropdownSelectFieldInActionValue) {
 //     new Select(htmlDropdownSelectFieldInAction).deselectByVisibleText(htmlDropdownSelectFieldInActionValue);
+//     return this;
+// }
+// public dsfsd setComments6CheckboxField() {
+//     if (!comments6.isSelected()) {
+//         comments6.click();
+//     }
 //     return this;
 // }
 // /**
