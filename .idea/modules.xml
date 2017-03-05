@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/selenium-ruby-page-object-generator.iml" filepath="$PROJECT_DIR$/.idea/selenium-ruby-page-object-generator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/testing_ws_project.iml" filepath="$PROJECT_DIR$/.idea/testing_ws_project.iml" />
+    </modules>
+  </component>
+</project>
