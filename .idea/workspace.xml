@@ -40,7 +40,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="selenium-ruby-page-object-generator.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="selenium-ruby-page-object-generator.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/js/selenium-ruby-page-object-generator.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="238">
@@ -52,10 +52,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="UAT _ Ezidebit Staff Access.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="UAT _ Ezidebit Staff Access.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/UAT _ Ezidebit Staff Access.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3332">
+            <state relative-caret-position="272">
               <caret line="196" column="14" lean-forward="false" selection-start-line="196" selection-start-column="12" selection-end-line="196" selection-end-column="14" />
               <folding />
             </state>
@@ -311,12 +311,12 @@
       <workItem from="1488673828225" duration="223000" />
       <workItem from="1488675433385" duration="13449000" />
       <workItem from="1488691691540" duration="20295000" />
-      <workItem from="1488888240322" duration="601000" />
+      <workItem from="1488888240322" duration="850000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="49973000" />
+    <option name="totallyTimeSpent" value="50222000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -573,14 +573,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/UAT _ Ezidebit Staff Access.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3332">
-          <caret line="196" column="14" lean-forward="false" selection-start-line="196" selection-start-column="12" selection-end-line="196" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/Downloads/DaveSTestPage.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -627,6 +619,14 @@
           <folding>
             <element signature="n#!!doc;n#constructPageObject#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/UAT _ Ezidebit Staff Access.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="196" column="14" lean-forward="false" selection-start-line="196" selection-start-column="12" selection-end-line="196" selection-end-column="14" />
+          <folding />
         </state>
       </provider>
     </entry>
