@@ -10,7 +10,7 @@ const INPUTNAMEATTRIBUTESAMPLE  = 'example_name';
 const INPUTIDATTRIBUTESAMPLE    = 'example_id';
 
 
-var elementCollection = document.createElement(BODYTAG);
+var elementWithNoNameORId = document.createElement(INPUTTAG);
 var elementWithNameAndId = document.createElement(INPUTTAG);
 var elementWithName = document.createElement(INPUTTAG);
 var elementWithId = document.createElement(INPUTTAG);
@@ -18,27 +18,17 @@ elementWithNameAndId.setAttribute(INPUTNAMEATTRIBUTE, INPUTNAMEATTRIBUTESAMPLE);
 elementWithNameAndId.setAttribute(INPUTIDATTRIBUTE, INPUTIDATTRIBUTESAMPLE);
 elementWithName.setAttribute(INPUTNAMEATTRIBUTE, INPUTNAMEATTRIBUTESAMPLE);
 elementWithId.setAttribute(INPUTIDATTRIBUTE, INPUTIDATTRIBUTESAMPLE);
-elementCollection.appendChild(elementWithNameAndId);
-elementCollection.appendChild(elementWithName);
-elementCollection.appendChild(elementWithId);
+document.body.appendChild(elementWithNoNameORId);
+document.body.appendChild(elementWithNameAndId);
+document.body.appendChild(elementWithName);
+document.body.appendChild(elementWithId);
 
 console.log(createPageObjectHeader('this_is_my_page_title'));
 //     //    class EBSLoginPage < Page
-console.log(createPageObjectEnterMethod('this_is_my_field_name'));
-//     //    self.user_name=user_name_value
-//     //    enter @@user_name,user_name_value
-console.log(createPageObjectClickMethod('this_is_my_button_name'));
-//     //    self.login_button
-//     //    click @@login_button
+console.log(getPageObjectHeaderComments());
+//     //    class EBSLoginPage < Page
 console.log(createPageObjectFooter());
 //     //    end
-
-console.log(getInputFieldName(elementWithNameAndId));
-//     //    example_name
-console.log(getInputFieldName(elementWithName));
-//     //    example_name
-console.log(getInputFieldName(elementWithId));
-//     //    example_id
 
 
 console.log(createPageObjectAnnotation(elementWithNameAndId));
@@ -47,6 +37,69 @@ console.log(createPageObjectAnnotation(elementWithName));
 //     //    @@example_name = {:platform => "Web", :id_type => :name, :id_value => "example_name" }
 console.log(createPageObjectAnnotation(elementWithId));
 //     //    @@example_id = {:platform => "Web", :id_type => :id, :id_value => "example_id" }
+console.log(createPageObjectAnnotation(elementWithNoNameORId));
+//     //    @@example_id = {:platform => "Web", :id_type => :xpath, :id_value => "example_id" }
+
+
+console.log(getInputFieldName(elementWithNameAndId));
+//     //    example_name
+console.log(getInputFieldName(elementWithName));
+//     //    example_name
+console.log(getInputFieldName(elementWithId));
+//     //    example_id
+console.log(getInputFieldName(elementWithNoNameORId));
+//     //    XPath
+
+
+console.log(removePunctuation(' a`~!@#$%^&*()1234567890-=c_d+[]{};\'\\,./<>?b '));
+//     //    _acdb_
+
+console.log(createPageObjectMethods(elementWithNameAndId));
+//     //    XPath
+console.log(createPageObjectSimpleMethod('name','simplemethod','suffix'));
+//     //    XPath
+console.log(createPageObjectSimpleMethod('name','simplemethod'));
+//     //    XPath
+console.log(createPageObjectAssignMethod('name','assignmethod'));
+//     //    XPath
+console.log(wrapMethodInBoilerplate('text'));
+//     //    XPath
+console.log(camelize('the cat in the hat'));
+//     //    theCatInTheHat
+console.log(camelize(' the~!@#$%^&*()_+`-={}|:"<>?[]\\;\',./\' cat in the hat '));
+//     //    theCatInTheHat
+console.log(pascalize('the cat in the hat'));
+//     //    TheCatInTheHat
+console.log(pascalize(' the~!@#$%^&*()_+`-={}|:"<>?[]\\;\',./\' cat in the hat '));
+//     //    TheCatInTheHat
+
+
+
+
+console.log(getPageName(document));
+//     //    ObjectGenerator
+//TODO
+console.log(getHeaderElements(document));
+//     //    XPath
+//TODO
+console.log(getInteractiveElements(document));
+//     //    XPath
+console.log(getXPath(elementWithNoNameORId));
+//     //    BODY/INPUT[1]
+console.log(getXPath(elementWithId));
+//     //    id("example_id")
+
+
+
+
+/*
+console.log(createPageObjectEnterMethod('this_is_my_field_name'));
+//     //    self.user_name=user_name_value
+//     //    enter @@user_name,user_name_value
+console.log(createPageObjectClickMethod('this_is_my_button_name'));
+//     //    self.login_button
+//     //    click @@login_button
+
 
 
 console.log(createPageObjectMethod(elementWithNameAndId));
@@ -68,7 +121,7 @@ console.log(createPageObject(elementCollection, 'this_is_my_page_title'));
 //     //    enter @@example_id,example_id_value
 //     //    end
 
-
+*/
 
 /*
  See below for a Ruby pageobject sample supplied by Manood
