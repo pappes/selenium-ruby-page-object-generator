@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7138bca8-e427-479d-b90c-f715e49904d1" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/index.html" afterPath="$PROJECT_DIR$/src/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/js/selenium-ruby-page-object-generator.js" afterPath="$PROJECT_DIR$/src/js/selenium-ruby-page-object-generator.js" />
-    </list>
+    <list default="true" id="7138bca8-e427-479d-b90c-f715e49904d1" name="Default" comment="" />
     <ignored path="selenium-ruby-page-object-generator.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,11 +20,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="65" lean-forward="false" selection-start-line="9" selection-start-column="65" selection-end-line="9" selection-end-column="65" />
+            <state relative-caret-position="255">
+              <caret line="15" column="39" lean-forward="true" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
               <folding />
             </state>
           </provider>
@@ -36,7 +33,7 @@
       <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/js/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-367">
+            <state relative-caret-position="663">
               <caret line="39" column="12" lean-forward="false" selection-start-line="39" selection-start-column="12" selection-end-line="39" selection-end-column="12" />
               <folding />
             </state>
@@ -46,29 +43,11 @@
       <file leaf-file-name="selenium-ruby-page-object-generator.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/js/selenium-ruby-page-object-generator.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
-              <caret line="279" column="59" lean-forward="false" selection-start-line="8" selection-start-column="2" selection-end-line="301" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ObjectGenerator.rb" pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/Downloads/ObjectGenerator.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="263">
-              <caret line="82" column="7" lean-forward="false" selection-start-line="82" selection-start-column="7" selection-end-line="82" selection-end-column="7" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="StaffAccess.rb" pinned="false" current-in-tab="true">
-        <entry file="file://$USER_HOME$/Downloads/StaffAccess.rb">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-816">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="102">
+              <caret line="8" column="2" lean-forward="false" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
+              <folding>
+                <element signature="n#!!doc;n#constructPageObject#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -76,35 +55,9 @@
       <file leaf-file-name="UAT _ Ezidebit Staff Access.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/UAT _ Ezidebit Staff Access.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-445">
+            <state relative-caret-position="3332">
               <caret line="196" column="14" lean-forward="false" selection-start-line="196" selection-start-column="12" selection-end-line="196" selection-end-column="14" />
-              <folding>
-                <marker date="1488795585389" expanded="true" signature="28486:28546" ph="{...}" />
-                <marker date="1488795585389" expanded="true" signature="29055:29115" ph="{...}" />
-                <marker date="1488795585389" expanded="true" signature="29891:29951" ph="{...}" />
-                <marker date="1488795585389" expanded="true" signature="30407:30467" ph="{...}" />
-                <marker date="1488795585389" expanded="true" signature="30738:30798" ph="{...}" />
-                <marker date="1488795585389" expanded="true" signature="31177:31237" ph="{...}" />
-                <marker date="1488795585389" expanded="true" signature="31843:31903" ph="{...}" />
-                <marker date="1488795585389" expanded="true" signature="32898:32958" ph="{...}" />
-                <marker date="1488795585389" expanded="true" signature="33511:33571" ph="{...}" />
-                <marker date="1488795585389" expanded="true" signature="34126:34186" ph="{...}" />
-                <marker date="1488795585389" expanded="true" signature="34831:34891" ph="{...}" />
-                <marker date="1488795585389" expanded="true" signature="35497:35557" ph="{...}" />
-                <marker date="1488795585389" expanded="true" signature="47925:47985" ph="{...}" />
-                <marker date="1488795585389" expanded="true" signature="60740:60800" ph="{...}" />
-                <marker date="1488795585389" expanded="true" signature="62689:62749" ph="{...}" />
-                <marker date="1488795585389" expanded="true" signature="63465:63525" ph="{...}" />
-                <marker date="1488795585389" expanded="true" signature="72873:72933" ph="{...}" />
-                <marker date="1488795585389" expanded="true" signature="75106:75166" ph="{...}" />
-                <marker date="1488795585389" expanded="true" signature="75797:75857" ph="{...}" />
-                <marker date="1488795585389" expanded="true" signature="79605:79665" ph="{...}" />
-                <marker date="1488795585389" expanded="true" signature="80444:80504" ph="{...}" />
-                <marker date="1488795585389" expanded="true" signature="81291:81351" ph="{...}" />
-                <marker date="1488795585389" expanded="true" signature="82150:82210" ph="{...}" />
-                <marker date="1488795585389" expanded="true" signature="83025:83085" ph="{...}" />
-                <marker date="1488795585389" expanded="true" signature="88163:88223" ph="{...}" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -144,22 +97,15 @@
         <option value="$PROJECT_DIR$/src/js/main.js" />
         <option value="$PROJECT_DIR$/temp/UAT _ Ezidebit Staff Access.html" />
         <option value="$PROJECT_DIR$/src/UAT _ Ezidebit Staff Access.html" />
-        <option value="$PROJECT_DIR$/src/index.html" />
         <option value="$PROJECT_DIR$/src/js/selenium-ruby-page-object-generator.js" />
+        <option value="$PROJECT_DIR$/src/index.html" />
       </list>
     </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
-    <package-json value="$PROJECT_DIR$/package.json" />
-  </component>
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
-    <gulpfiles>
-      <GulpfileState>
-        <gulpfile-path>$PROJECT_DIR$/gulpfile.js</gulpfile-path>
-      </GulpfileState>
-    </gulpfiles>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
@@ -184,7 +130,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -194,20 +139,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="selenium-ruby-page-object-generator" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="selenium-ruby-page-object-generator" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="selenium-ruby-page-object-generator" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -257,62 +188,9 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="selenium-ruby-page-object-generator" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="selenium-ruby-page-object-generator" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="vendor" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="selenium-ruby-page-object-generator" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="selenium-ruby-page-object-generator" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dist" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="selenium-ruby-page-object-generator" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="selenium-ruby-page-object-generator" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="dist" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="Scratches" />
     </panes>
   </component>
@@ -329,7 +207,7 @@
       <recent name="C:\Users\dj\Documents\GitHub\selenium-ruby-page-object-generator\test" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.UAT _ Ezidebit Staff Access.html (1)">
+  <component name="RunManager" selected="JavaScript Debug.index.html">
     <configuration default="false" name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/selenium-ruby-page-object-generator/src/index.html">
       <method />
     </configuration>
@@ -409,9 +287,9 @@
     </list>
     <recent_temporary>
       <list size="4">
-        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.UAT _ Ezidebit Staff Access.html (1)" />
-        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.UAT _ Ezidebit Staff Access.html" />
-        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.index.html" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.UAT _ Ezidebit Staff Access.html (1)" />
+        <item index="2" class="java.lang.String" itemvalue="JavaScript Debug.UAT _ Ezidebit Staff Access.html" />
         <item index="3" class="java.lang.String" itemvalue="Node.js.file_existence.js" />
       </list>
     </recent_temporary>
@@ -433,11 +311,12 @@
       <workItem from="1488673828225" duration="223000" />
       <workItem from="1488675433385" duration="13449000" />
       <workItem from="1488691691540" duration="20295000" />
+      <workItem from="1488888240322" duration="254000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="49372000" />
+    <option name="totallyTimeSpent" value="49626000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -456,7 +335,6 @@
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25245366" sideWeight="0.49631965" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32912722" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32912722" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25245366" sideWeight="0.50368035" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -469,6 +347,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32912722" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -493,6 +372,64 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/index.html">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="65" lean-forward="false" selection-start-line="9" selection-start-column="65" selection-end-line="9" selection-end-column="65" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="663">
+          <caret line="39" column="12" lean-forward="false" selection-start-line="39" selection-start-column="12" selection-end-line="39" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/selenium-ruby-page-object-generator.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4743">
+          <caret line="279" column="0" lean-forward="true" selection-start-line="8" selection-start-column="2" selection-end-line="301" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc;n#constructPageObject#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/ObjectGenerator.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1394">
+          <caret line="82" column="7" lean-forward="false" selection-start-line="82" selection-start-column="7" selection-end-line="82" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/StaffAccess.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/UAT _ Ezidebit Staff Access.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3332">
+          <caret line="196" column="14" lean-forward="false" selection-start-line="196" selection-start-column="12" selection-end-line="196" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/temp/dsfsd.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="26" lean-forward="false" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.html">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
@@ -507,26 +444,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/file_content.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="31" column="13" lean-forward="false" selection-start-line="27" selection-start-column="62" selection-end-line="31" selection-end-column="13" />
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/file_existence.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1122">
-          <caret line="66" column="0" lean-forward="false" selection-start-line="60" selection-start-column="0" selection-end-line="66" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/test/file_content.js" />
+    <entry file="file://$PROJECT_DIR$/test/file_existence.js" />
     <entry file="file://$PROJECT_DIR$/src/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -535,19 +454,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/js/plugins.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="5" lean-forward="false" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/plugins.js" />
     <entry file="file://$PROJECT_DIR$/src/js/selenium-ruby-page-object-generator.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="4097">
           <caret line="241" column="22" lean-forward="false" selection-start-line="241" selection-start-column="22" selection-end-line="241" selection-end-column="22" />
-          <folding />
+          <folding>
+            <element signature="n#!!doc;n#constructPageObject#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -559,26 +473,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/file_content.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="527">
-          <caret line="31" column="13" lean-forward="false" selection-start-line="27" selection-start-column="62" selection-end-line="31" selection-end-column="13" />
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/file_existence.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1122">
-          <caret line="66" column="0" lean-forward="false" selection-start-line="60" selection-start-column="0" selection-end-line="66" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/test/file_content.js" />
+    <entry file="file://$PROJECT_DIR$/test/file_existence.js" />
     <entry file="file://$PROJECT_DIR$/src/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -587,19 +483,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/js/plugins.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="5" lean-forward="false" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/plugins.js" />
     <entry file="file://$PROJECT_DIR$/src/js/selenium-ruby-page-object-generator.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="4097">
           <caret line="241" column="22" lean-forward="false" selection-start-line="241" selection-start-column="22" selection-end-line="241" selection-end-column="22" />
-          <folding />
+          <folding>
+            <element signature="n#!!doc;n#constructPageObject#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -611,41 +502,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/file_existence.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="205">
-          <caret line="66" column="0" lean-forward="false" selection-start-line="60" selection-start-column="0" selection-end-line="66" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/file_content.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="612">
-          <caret line="36" column="0" lean-forward="true" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/js/plugins.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="5" lean-forward="false" selection-start-line="20" selection-start-column="5" selection-end-line="20" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gulpfile.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/test/file_existence.js" />
+    <entry file="file://$PROJECT_DIR$/test/file_content.js" />
+    <entry file="file://$PROJECT_DIR$/src/js/plugins.js" />
+    <entry file="file://$PROJECT_DIR$/gulpfile.js" />
     <entry file="file://$PROJECT_DIR$/LICENSE.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -653,27 +513,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="337">
-            <caret line="23" column="26" lean-forward="true" selection-start-line="23" selection-start-column="26" selection-end-line="23" selection-end-column="55" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-      <provider editor-type-id="MarkdownFxPreviewEditor">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/generator_tests.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63">
-          <caret line="20" column="43" lean-forward="true" selection-start-line="20" selection-start-column="43" selection-end-line="20" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md" />
+    <entry file="file://$PROJECT_DIR$/test/generator_tests.js" />
     <entry file="file://$PROJECT_DIR$/temp/dsfsd.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
@@ -686,7 +527,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -694,49 +534,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="11" column="32" lean-forward="true" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/temp/UAT _ Ezidebit Staff Access.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="248">
-          <caret line="349" column="0" lean-forward="true" selection-start-line="349" selection-start-column="0" selection-end-line="349" selection-end-column="0" />
-          <folding>
-            <marker date="1488795453750" expanded="true" signature="28486:28546" ph="{...}" />
-            <marker date="1488795453750" expanded="true" signature="29055:29115" ph="{...}" />
-            <marker date="1488795453750" expanded="true" signature="29891:29951" ph="{...}" />
-            <marker date="1488795453750" expanded="true" signature="30407:30467" ph="{...}" />
-            <marker date="1488795453750" expanded="true" signature="30738:30798" ph="{...}" />
-            <marker date="1488795453750" expanded="true" signature="31177:31237" ph="{...}" />
-            <marker date="1488795453750" expanded="true" signature="31843:31903" ph="{...}" />
-            <marker date="1488795453750" expanded="true" signature="32898:32958" ph="{...}" />
-            <marker date="1488795453750" expanded="true" signature="33511:33571" ph="{...}" />
-            <marker date="1488795453750" expanded="true" signature="34126:34186" ph="{...}" />
-            <marker date="1488795453750" expanded="true" signature="34831:34891" ph="{...}" />
-            <marker date="1488795453750" expanded="true" signature="35497:35557" ph="{...}" />
-            <marker date="1488795453750" expanded="true" signature="47925:47985" ph="{...}" />
-            <marker date="1488795453750" expanded="true" signature="60740:60800" ph="{...}" />
-            <marker date="1488795453750" expanded="true" signature="62689:62749" ph="{...}" />
-            <marker date="1488795453750" expanded="true" signature="63465:63525" ph="{...}" />
-            <marker date="1488795453750" expanded="true" signature="72873:72933" ph="{...}" />
-            <marker date="1488795453750" expanded="true" signature="75106:75166" ph="{...}" />
-            <marker date="1488795453750" expanded="true" signature="75797:75857" ph="{...}" />
-            <marker date="1488795453750" expanded="true" signature="79605:79665" ph="{...}" />
-            <marker date="1488795453750" expanded="true" signature="80444:80504" ph="{...}" />
-            <marker date="1488795453750" expanded="true" signature="81291:81351" ph="{...}" />
-            <marker date="1488795453750" expanded="true" signature="82150:82210" ph="{...}" />
-            <marker date="1488795453750" expanded="true" signature="83025:83085" ph="{...}" />
-            <marker date="1488795453750" expanded="true" signature="88163:88223" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/temp/UAT _ Ezidebit Staff Access.html" />
     <entry file="file://$USER_HOME$/Downloads/UAT_Ezidebit_Staff_Access.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -744,7 +549,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="33" column="7" lean-forward="true" selection-start-line="33" selection-start-column="7" selection-end-line="33" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -752,7 +556,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
           <caret line="20" column="14" lean-forward="false" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -760,7 +563,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="765">
           <caret line="45" column="7" lean-forward="false" selection-start-line="45" selection-start-column="7" selection-end-line="45" selection-end-column="7" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -768,41 +570,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/UAT _ Ezidebit Staff Access.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-445">
+        <state relative-caret-position="3332">
           <caret line="196" column="14" lean-forward="false" selection-start-line="196" selection-start-column="12" selection-end-line="196" selection-end-column="14" />
-          <folding>
-            <marker date="1488795585389" expanded="true" signature="28486:28546" ph="{...}" />
-            <marker date="1488795585389" expanded="true" signature="29055:29115" ph="{...}" />
-            <marker date="1488795585389" expanded="true" signature="29891:29951" ph="{...}" />
-            <marker date="1488795585389" expanded="true" signature="30407:30467" ph="{...}" />
-            <marker date="1488795585389" expanded="true" signature="30738:30798" ph="{...}" />
-            <marker date="1488795585389" expanded="true" signature="31177:31237" ph="{...}" />
-            <marker date="1488795585389" expanded="true" signature="31843:31903" ph="{...}" />
-            <marker date="1488795585389" expanded="true" signature="32898:32958" ph="{...}" />
-            <marker date="1488795585389" expanded="true" signature="33511:33571" ph="{...}" />
-            <marker date="1488795585389" expanded="true" signature="34126:34186" ph="{...}" />
-            <marker date="1488795585389" expanded="true" signature="34831:34891" ph="{...}" />
-            <marker date="1488795585389" expanded="true" signature="35497:35557" ph="{...}" />
-            <marker date="1488795585389" expanded="true" signature="47925:47985" ph="{...}" />
-            <marker date="1488795585389" expanded="true" signature="60740:60800" ph="{...}" />
-            <marker date="1488795585389" expanded="true" signature="62689:62749" ph="{...}" />
-            <marker date="1488795585389" expanded="true" signature="63465:63525" ph="{...}" />
-            <marker date="1488795585389" expanded="true" signature="72873:72933" ph="{...}" />
-            <marker date="1488795585389" expanded="true" signature="75106:75166" ph="{...}" />
-            <marker date="1488795585389" expanded="true" signature="75797:75857" ph="{...}" />
-            <marker date="1488795585389" expanded="true" signature="79605:79665" ph="{...}" />
-            <marker date="1488795585389" expanded="true" signature="80444:80504" ph="{...}" />
-            <marker date="1488795585389" expanded="true" signature="81291:81351" ph="{...}" />
-            <marker date="1488795585389" expanded="true" signature="82150:82210" ph="{...}" />
-            <marker date="1488795585389" expanded="true" signature="83025:83085" ph="{...}" />
-            <marker date="1488795585389" expanded="true" signature="88163:88223" ph="{...}" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -810,37 +585,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="65" lean-forward="false" selection-start-line="9" selection-start-column="65" selection-end-line="9" selection-end-column="65" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-367">
+        <state relative-caret-position="663">
           <caret line="39" column="12" lean-forward="false" selection-start-line="39" selection-start-column="12" selection-end-line="39" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/js/selenium-ruby-page-object-generator.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="279" column="59" lean-forward="false" selection-start-line="8" selection-start-column="2" selection-end-line="301" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$USER_HOME$/Downloads/ObjectGenerator.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="263">
+        <state relative-caret-position="603">
           <caret line="82" column="7" lean-forward="false" selection-start-line="82" selection-start-column="7" selection-end-line="82" selection-end-column="7" />
           <folding />
         </state>
@@ -848,8 +606,26 @@
     </entry>
     <entry file="file://$USER_HOME$/Downloads/StaffAccess.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-816">
+        <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/selenium-ruby-page-object-generator.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="8" column="2" lean-forward="false" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
+          <folding>
+            <element signature="n#!!doc;n#constructPageObject#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="39" lean-forward="true" selection-start-line="15" selection-start-column="39" selection-end-line="15" selection-end-column="39" />
           <folding />
         </state>
       </provider>

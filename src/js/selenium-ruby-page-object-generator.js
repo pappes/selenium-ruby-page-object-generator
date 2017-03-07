@@ -6,7 +6,7 @@
 //  uncomment the below line of code (and two lines at the bottom)
 //  to isolate the scope of the logic in a bookmarklet which will reduce naming conflicts
 //  put the resulting function through https://jscompress.com/
-javascript:(function(){
+//javascript:(function(){
 
 
 // javascript: (function () {
@@ -321,6 +321,6 @@ function getXPath(element) {
 }
 
 //  uncomment the below 2 lines to execute the logic immediately for the current page as a bookmarklet
-constructPageObject(document);
-})();
+//constructPageObject(document);
+//})();
 
